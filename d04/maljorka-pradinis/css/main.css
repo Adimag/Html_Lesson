@@ -1,0 +1,58 @@
+.features .bi {
+    font-size: 32px;
+    color: lightblue;
+}
+
+.footer {
+    background-color: #000;
+    color: #fff;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+}
+
+.footer a {
+    color: aqua;
+    text-decoration: none;
+}
+
+.footer a:hover {
+    color: #fff;
+}
+nav, .card {
+    margin-bottom: 25px;
+}
+.card { flex-direction: row;
+}
+#navbarNavDropdown {
+    justify-content: flex-end;
+}
+img {
+    width: 100%;
+    display: block;
+}
+
+
+.footer a {
+    color: aqua;
+    text-decoration:none;
+}
+
+.footer a:hover {
+    color:#fff;
+}
+
+.card {
+    flex-direction:row;
+    margin:25px 0;
+}
+
+img {
+    display:block;
+    width:100%;
+}
+
+#navbarNavDropdown {
+    justify-content: flex-end;
+}
+

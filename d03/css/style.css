@@ -1,0 +1,11 @@
+button { 
+    height: 50px;
+    width: 150px;
+    border-radius: 20px;
+    border: none;
+    background-color: red;
+    color: #fff;
+    font-size: 24px;
+    tra
+    cursor: pointer;
+}
